@@ -15,3 +15,7 @@ A simple desktop Pomodoro timer built with PyQt5. It stays on top, is draggable,
 
    ```bash
    pip install pyqt5
+   
+2. Run the python file
+
+   python pomodoro.pypython pomodoro.py
