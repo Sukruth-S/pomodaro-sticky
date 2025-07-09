@@ -18,4 +18,4 @@ A simple desktop Pomodoro timer built with PyQt5. It stays on top, is draggable,
    
 2. Run the python file
 
-   python pomodoro.pypython pomodoro.py
+   python pomodoro.py
